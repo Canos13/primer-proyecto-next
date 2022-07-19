@@ -1,0 +1,20 @@
+{
+  "name": "next-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "Sergio Cano",
+  "license": "MIT",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0",
+    "next": "^12.2.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
